@@ -1,0 +1,17 @@
+D:\Code\C#\Lula\bin\Debug\netcoreapp3.1\Lula.exe
+D:\Code\C#\Lula\bin\Debug\netcoreapp3.1\Lula.deps.json
+D:\Code\C#\Lula\bin\Debug\netcoreapp3.1\Lula.runtimeconfig.json
+D:\Code\C#\Lula\bin\Debug\netcoreapp3.1\Lula.runtimeconfig.dev.json
+D:\Code\C#\Lula\bin\Debug\netcoreapp3.1\Lula.dll
+D:\Code\C#\Lula\bin\Debug\netcoreapp3.1\Lula.pdb
+D:\Code\C#\Lula\obj\Debug\netcoreapp3.1\Lula.csprojAssemblyReference.cache
+D:\Code\C#\Lula\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Code\C#\Lula\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Code\C#\Lula\obj\Debug\netcoreapp3.1\Lula_MarkupCompile.cache
+D:\Code\C#\Lula\obj\Debug\netcoreapp3.1\Lula_MarkupCompile.lref
+D:\Code\C#\Lula\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Code\C#\Lula\obj\Debug\netcoreapp3.1\Lula.g.resources
+D:\Code\C#\Lula\obj\Debug\netcoreapp3.1\Lula.AssemblyInfoInputs.cache
+D:\Code\C#\Lula\obj\Debug\netcoreapp3.1\Lula.AssemblyInfo.cs
+D:\Code\C#\Lula\obj\Debug\netcoreapp3.1\Lula.dll
+D:\Code\C#\Lula\obj\Debug\netcoreapp3.1\Lula.pdb
